@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Gautam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishangautam7&label=Profile%20views&color=0e75b6&style=flat" alt="ishangautam7" /> </p>
 
-- 👨‍💻 All of my projects are available at [ishan-gautam.com.np](ishan-gautam.com.np)
+- 👨‍💻 All of my projects are available at [ishangautam7.com.np](ishangautam7.com.np)
 
 - 📫 How to reach me **isangautam@gmail.ccom**
 
